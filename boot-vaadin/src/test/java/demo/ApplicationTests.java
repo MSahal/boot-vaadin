@@ -10,8 +10,9 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @ContextConfiguration(classes = Application.class, loader = SpringApplicationContextLoader.class)
 public class ApplicationTests {
 
-    @Test
-    public void contextLoads() {
-    }
+	// test class
+	@Test
+	public void contextLoads() {
+	}
 
 }

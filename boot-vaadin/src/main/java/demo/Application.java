@@ -21,6 +21,11 @@ import com.vaadin.server.VaadinRequest;
 import com.vaadin.ui.Table;
 import com.vaadin.ui.UI;
 
+/**
+ * 
+ * @author MSA
+ *
+ */
 @ComponentScan
 @EnableAutoConfiguration
 public class Application extends SpringBootServletInitializer {

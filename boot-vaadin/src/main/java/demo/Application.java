@@ -23,8 +23,7 @@ import com.vaadin.ui.UI;
 
 /**
  * 
- * @author MSA
- *
+ * @author MSA start class
  */
 @ComponentScan
 @EnableAutoConfiguration
